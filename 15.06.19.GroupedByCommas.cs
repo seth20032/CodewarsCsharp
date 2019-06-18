@@ -15,7 +15,7 @@ Examples
 */
 
 
-######Solution 1######
+#region Solution 1
 using System;
 
 public static class Kata
@@ -31,8 +31,11 @@ public static class Kata
   
 }
 
+#endregion
 
-######Solution 2######
+
+
+##region Solution 2
 using System;
 
 public static class Kata
@@ -46,3 +49,5 @@ public static class Kata
   }
   
 }
+
+#endregion
